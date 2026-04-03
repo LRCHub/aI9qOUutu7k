@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "fake ring... (Remix)",
+  "base_artist": "429",
+  "createdAt": "2026-04-03T14:31:34.496323Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "fake ring... (Remix)",
+      "artist": "429",
+      "has_synced": false,
+      "path": "select/pl_01_fake_ring..._(Remix)_429.txt"
+    }
+  ]
+}
